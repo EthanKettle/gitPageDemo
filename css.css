@@ -22,3 +22,7 @@ div {
 div:hover{
     background-color: #b6f3b1;
 }
+
+table tr td{
+  border: 1px solid black
+}
